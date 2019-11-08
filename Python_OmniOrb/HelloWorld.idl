@@ -1,0 +1,17 @@
+//
+// "Hello World" interoperability example
+//
+
+
+module HelloWorld {
+
+    interface Hello {
+	//
+	// The IDL version of the old faithful, 'Hello World' example
+	//
+	// This operation takes no input parameters
+	// 	and returns a string.
+	//
+	string hello_world();
+    };			
+};

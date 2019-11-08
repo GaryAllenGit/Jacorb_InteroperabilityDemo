@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jacorb/Jacorb.iml" filepath="$PROJECT_DIR$/Jacorb/Jacorb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jacorb_InteroperabilityDemo.iml" filepath="$PROJECT_DIR$/Jacorb_InteroperabilityDemo.iml" />
+    </modules>
+  </component>
+</project>
