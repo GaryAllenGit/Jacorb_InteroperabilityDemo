@@ -27,7 +27,7 @@ To use this part of the demo:
 e.g. I would type:
 
     cd Jacorb/src
-    /spare/jacorb-3.9/bin/idl HelloWorld.idl
+    /local/jacorb-3.9/bin/idl HelloWorld.idl
     
 3.  To stop Jacorb displaying extensive logging information add the following VM args to the HelloServer and HelloClient run configurations:
 
